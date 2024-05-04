@@ -6,7 +6,8 @@ fist download this jar file
 <a href="https://github.com/MakawanaMohit/LinkedList_Java_API/blob/main/LinkedListProject.jar">Download Link</a>
 Then copy the location of this download jar file 
 ex.
-`D:\study\java projects\OOPJ_MP\LinkedListProject.jar`
+
+~D:\study\java projects\OOPJ_MP\LinkedListProject.jar~
 Then There is two option to Use this package 
 
 1: By ClassPath Environment Variable 
