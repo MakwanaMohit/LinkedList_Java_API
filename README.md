@@ -1,6 +1,7 @@
 # LinkedList_Java_API
 this project has implementation of LinkedList in java you can store dynamic data types in this list 
-
+<h2>Documentation of this Package</h2>
+<a href="https://codewithmk.site/java%20package/">Documentation</a>
 How to use 
 fist download this jar file <br>
 <a href="https://github.com/MakawanaMohit/LinkedList_Java_API/blob/main/LinkedListProject.jar">Download Link</a><br>
