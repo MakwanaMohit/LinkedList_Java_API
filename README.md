@@ -3,8 +3,8 @@ this project has implementation of LinkedList in java you can store dynamic data
 <h2>Documentation of this Package</h2>
 <a href="https://codewithmk.site/java%20package/">Documentation</a><hr>
 How to use 
-fist download this jar file <br>
-<a href="https://github.com/MakawanaMohit/LinkedList_Java_API/blob/main/LinkedListProject.jar">Download Link</a><hr>
+fist download the jar file from release<br>
+<a href="https://github.com/MakwanaMohit/LinkedList_Java_API/releases/">releases</a><hr>
 Then copy the path of this download jar file <br>
 ex.<br>
 
