@@ -158,7 +158,7 @@ return 0;
      * @throws IndexOutOfBoundsException if the given index is not valid then it throws the {@link IndexOutOfBoundsException}
      * @throws EmptyLinkedListException if the List is empty then it throws the {@link EmptyLinkedListException}
      */
-    public Node pop_NodeAt(int Index) throws IndexOutOfBoundsException,EmptyLinkedListException{
+    public Node popNodeAt(int Index) throws IndexOutOfBoundsException,EmptyLinkedListException{
         Node save = First;
         if (Index < 0 || Index >=length){
             throw new IndexOutOfBoundsException("The index is invalid");
@@ -262,8 +262,8 @@ return 0;
      * @param Index you shold specify the index at which you want to access the Node
      * @return the Node that occur at given Index
      */
-    public Node NodeAt(int Index){
-        if (0 < Index && Index < length){
+    public Node nodeAt(int Index){
+        if (0 <= Index && Index < length){
             Node save = First;
             for (int i = 0; i < length; i++) {
                 if (i == Index){
@@ -283,7 +283,7 @@ return 0;
      * @return it  the Index in which the Node is occurring
      * @throws NodeNotFoundException if the given node is not found in the {@link LinkedList} then it throws {@link NodeNotFoundException}
      */
-    public int Search_element(Node Search_Node) throws NodeNotFoundException{
+    public int searchElement(Node Search_Node) throws NodeNotFoundException{
         Node save = First;
         for (int i = 0; i <length ; i++) {
             if (Search_Node.equals(save)){

@@ -77,4 +77,11 @@ public class Node<Type> {
         return super.equals(obj);
     }
 
+    @Override
+    public String toString() {
+         if (hasNext()){
+             return "Node: "+getValue().toString()+", Next-"+getNext().toString();
+         }
+        return "Node: "+getValue().toString();
+    }
 }
