@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"OOPJ_MP","l":"EmptyLinkedListException"},{"p":"OOPJ_MP","l":"LinkedList"},{"p":"OOPJ_MP","l":"Node"},{"p":"OOPJ_MP","l":"NodeNotFoundException"}];updateSearchResults();
